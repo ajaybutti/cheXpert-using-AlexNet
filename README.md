@@ -1,1 +1,1 @@
-# cheXpert-using-AlexNet
+# cheXpert dataset(12GB) using AlexNet model -GPU
